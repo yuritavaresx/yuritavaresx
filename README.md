@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Yuri Tavares 👋
 
-<!--
-**yuritavaresx/yuritavaresx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Development Student | Java | FATEC
 
-Here are some ideas to get you started:
+I'm a Software Development student at FATEC Indaiatuba, currently building my foundation in programming, software development, databases, and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on developing strong programming fundamentals and turning what I learn into practical projects.
+---
+
+## 🎓 About Me
+
+- 🎓 Software Development student at **FATEC Indaiatuba**
+- 💻 Currently focused on **Java and Object-Oriented Programming**
+- 🗄️ Studying **Relational Databases**
+- 🌐 Learning **JavaScript, TypeScript and Node.js**
+- 🔧 Currently learning **Git and GitHub**
+- 🧠 Interested in software development, problem solving and technology
+- 🚀 Open to **Software Development Internship opportunities**
+
+---
+
+## 💻 Technologies & Tools
+
+### Currently studying
+
+- ☕ Java
+- 🗄️ SQL & Relational Databases
+- 🌐 HTML & CSS
+- 🟨 JavaScript
+- 🔷 TypeScript
+- 🟢 Node.js
+- 🔧 Git & GitHub
+
+### Foundations
+
+- Programming Logic
+- Algorithms
+- Conditional Structures
+- Loops
+- Arrays
+- Matrices
+- Functions
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+ └── Object-Oriented Programming
+      ├── Classes & Objects
+      ├── Encapsulation
+      ├── Inheritance
+      ├── Polymorphism
+      └── Interfaces
+
+Databases
+ └── Relational Databases
+      ├── Data Modeling
+      ├── SQL
+      └── Relationships
+
+Web Development
+ ├── HTML
+ ├── CSS
+ ├── JavaScript
+ ├── TypeScript
+ └── Node.js
+
+Tools
+ └── Git & GitHub
